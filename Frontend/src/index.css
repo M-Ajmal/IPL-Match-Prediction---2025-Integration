@@ -1,0 +1,83 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 40% 98%;
+    --foreground: 222 47% 11%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+
+    --primary: 210 100% 31%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 30 100% 50%; 
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
+
+    --accent: 210 40% 96%;
+    --accent-foreground: 222 47% 11%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 222 84% 5%;
+
+    --radius: 0.5rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer components {
+  .gradient-bg {
+    @apply bg-gradient-to-br from-ipl-blue to-ipl-navy;
+  }
+  
+  .card-hover {
+    @apply hover:shadow-lg transition-all duration-300 hover:-translate-y-1;
+  }
+  
+  .stat-card {
+    @apply bg-white rounded-lg shadow-md p-5 border border-gray-100;
+  }
+  
+  .team-card {
+    @apply bg-white rounded-lg overflow-hidden shadow-md transition-all duration-300 hover:shadow-xl;
+  }
+  
+  .prediction-card {
+    @apply relative overflow-hidden rounded-lg border border-gray-200 bg-white p-6;
+  }
+
+  .nav-link {
+    @apply px-4 py-2 text-sm font-medium rounded-md hover:bg-opacity-80 transition-colors;
+  }
+  
+  .nav-link-active {
+    @apply bg-primary text-primary-foreground;
+  }
+  
+  .nav-link-inactive {
+    @apply text-foreground hover:bg-accent;
+  }
+}

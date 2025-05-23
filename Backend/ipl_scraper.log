@@ -1,0 +1,71 @@
+2025-05-03 10:35:16,337 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 10:35:16,337 - werkzeug - INFO -  * Debugger PIN: 492-162-351
+2025-05-03 10:35:16,415 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 10:35:16,415 - werkzeug - INFO -  * Debugger PIN: 492-162-351
+2025-05-03 10:35:16,478 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 10:35:16,478 - werkzeug - INFO -  * Debugger PIN: 492-162-351
+2025-05-03 10:35:25,384 - Orangecap_2025 - INFO - Starting Orange Cap data scraping
+2025-05-03 10:35:25,387 - WDM - INFO - ====== WebDriver manager ======
+2025-05-03 10:35:27,797 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-03 10:35:28,328 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-03 10:35:28,826 - WDM - INFO - Driver [C:\Users\ajmal\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-03 10:35:29,989 - Orangecap_2025 - INFO - Navigating to https://www.iplt20.com/stats/2025
+2025-05-03 10:35:51,985 - Orangecap_2025 - INFO - Headers found: ['POS', 'PLAYER', 'RUNS', 'MAT', 'INNS', 'NO', 'HS', 'AVG', 'BF', 'SR', '100', '50', '4S', '6S']
+2025-05-03 10:35:54,256 - Orangecap_2025 - INFO - Scraped 20 rows of data
+2025-05-03 10:35:56,553 - Orangecap_2025 - INFO - Script execution completed in 31.17 seconds
+2025-05-03 10:35:56,554 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:35:56] "POST /api/orange-cap-2025 HTTP/1.1" 200 -
+2025-05-03 10:37:39,584 - Orangecap_2025 - INFO - Starting Orange Cap data scraping
+2025-05-03 10:37:39,584 - WDM - INFO - ====== WebDriver manager ======
+2025-05-03 10:37:42,019 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-03 10:37:43,775 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-03 10:37:44,322 - WDM - INFO - Driver [C:\Users\ajmal\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-03 10:37:45,444 - Orangecap_2025 - INFO - Navigating to https://www.iplt20.com/stats/2025
+2025-05-03 10:37:59,686 - Orangecap_2025 - INFO - Headers found: ['POS', 'PLAYER', 'RUNS', 'MAT', 'INNS', 'NO', 'HS', 'AVG', 'BF', 'SR', '100', '50', '4S', '6S']
+2025-05-03 10:38:02,705 - Orangecap_2025 - INFO - Scraped 20 rows of data
+2025-05-03 10:38:02,706 - Orangecap_2025 - INFO - Backup created at Ipl_Stat_2025\batting\orange_cap_backup_20250503_103802.csv
+2025-05-03 10:38:04,948 - Orangecap_2025 - INFO - Script execution completed in 25.36 seconds
+2025-05-03 10:38:04,950 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:38:04] "[35m[1mPOST /api/orange-cap-2025 HTTP/1.1[0m" 500 -
+2025-05-03 10:44:30,624 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:44:30] "[35m[1mGET /api/orange-cap-2025 HTTP/1.1[0m" 500 -
+2025-05-03 10:44:30,627 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:44:30] "GET /api/most-centuries-2025 HTTP/1.1" 200 -
+2025-05-03 10:44:30,642 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:44:30] "GET /api/best-bowling-figures-2025 HTTP/1.1" 200 -
+2025-05-03 10:44:30,647 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:44:30] "GET /api/best-batting-average-2025 HTTP/1.1" 200 -
+2025-05-03 10:44:30,650 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:44:30] "GET /api/purple-cap-2025 HTTP/1.1" 200 -
+2025-05-03 10:44:30,652 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:44:30] "GET /api/green-dot-balls-2025 HTTP/1.1" 200 -
+2025-05-03 10:44:44,171 - werkzeug - INFO -  * Detected change in 'D:\\Document\\Projects\\cricket-champ-predictor\\Scraper\\IPL_Matches\\Pro\\Web\\Final\\cricket-oracle-predictions-main\\cricket-oracle-predictions-main\\backend\\Orangecap_2025.py', reloading
+2025-05-03 10:44:44,175 - werkzeug - INFO -  * Detected change in 'D:\\Document\\Projects\\cricket-champ-predictor\\Scraper\\IPL_Matches\\Pro\\Web\\Final\\cricket-oracle-predictions-main\\cricket-oracle-predictions-main\\backend\\Orangecap_2025.py', reloading
+2025-05-03 10:44:44,313 - werkzeug - INFO -  * Detected change in 'D:\\Document\\Projects\\cricket-champ-predictor\\Scraper\\IPL_Matches\\Pro\\Web\\Final\\cricket-oracle-predictions-main\\cricket-oracle-predictions-main\\backend\\Orangecap_2025.py', reloading
+2025-05-03 10:44:45,306 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 10:44:45,308 - werkzeug - INFO -  * Debugger PIN: 492-162-351
+2025-05-03 10:44:45,312 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 10:44:45,321 - werkzeug - INFO -  * Debugger PIN: 492-162-351
+2025-05-03 10:44:45,359 - werkzeug - WARNING -  * Debugger is active!
+2025-05-03 10:44:45,361 - werkzeug - INFO -  * Debugger PIN: 492-162-351
+2025-05-03 10:44:52,664 - Orangecap_2025 - INFO - Starting Orange Cap data scraping
+2025-05-03 10:44:52,665 - WDM - INFO - ====== WebDriver manager ======
+2025-05-03 10:44:55,138 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-03 10:44:55,807 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-03 10:44:56,484 - WDM - INFO - Driver [C:\Users\ajmal\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-03 10:44:57,664 - Orangecap_2025 - INFO - Navigating to https://www.iplt20.com/stats/2025
+2025-05-03 10:45:12,215 - Orangecap_2025 - INFO - Headers found: ['POS', 'PLAYER', 'RUNS', 'MAT', 'INNS', 'NO', 'HS', 'AVG', 'BF', 'SR', '100', '50', '4S', '6S']
+2025-05-03 10:45:14,284 - Orangecap_2025 - INFO - Scraped 20 rows of data
+2025-05-03 10:45:14,284 - Orangecap_2025 - INFO - Backup created at Ipl_Stat_2025\batting\orange_cap_backup_20250503_104514.csv
+2025-05-03 10:45:16,435 - Orangecap_2025 - INFO - Script execution completed in 23.77 seconds
+2025-05-03 10:45:16,435 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:45:16] "[35m[1mPOST /api/orange-cap-2025 HTTP/1.1[0m" 500 -
+2025-05-03 10:49:11,551 - Orangecap_2025 - INFO - Starting Orange Cap data scraping
+2025-05-03 10:49:11,551 - WDM - INFO - ====== WebDriver manager ======
+2025-05-03 10:49:14,073 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-03 10:49:14,788 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-03 10:49:15,432 - WDM - INFO - Driver [C:\Users\ajmal\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-03 10:49:16,587 - Orangecap_2025 - INFO - Navigating to https://www.iplt20.com/stats/2025
+2025-05-03 10:49:30,545 - Orangecap_2025 - INFO - Headers found: ['POS', 'PLAYER', 'RUNS', 'MAT', 'INNS', 'NO', 'HS', 'AVG', 'BF', 'SR', '100', '50', '4S', '6S']
+2025-05-03 10:49:33,024 - Orangecap_2025 - INFO - Scraped 20 rows of data
+2025-05-03 10:49:33,024 - Orangecap_2025 - INFO - Backup created at Ipl_Stat_2025\batting\orange_cap_backup_20250503_104933.csv
+2025-05-03 10:49:33,025 - Orangecap_2025 - WARNING - Headers mismatch. Old: [], New: ['POS', 'PLAYER', 'RUNS', 'MAT', 'INNS', 'NO', 'HS', 'AVG', 'BF', 'SR', '100', '50', '4S', '6S']
+2025-05-03 10:49:33,032 - Orangecap_2025 - INFO - New row: ['1', 'Sai Sudharsan\nGT', '504', '10', '10', '0', '82', '50.40', '327', '154.12', '0', '5', '55', '16']
+2025-05-03 10:49:33,032 - Orangecap_2025 - INFO - New row: ['2', 'Surya Kumar Yadav\nMI', '475', '11', '11', '4', '68*', '67.86', '275', '172.72', '0', '3', '46', '26']
+2025-05-03 10:49:33,033 - Orangecap_2025 - INFO - New row: ['3', 'Jos Buttler\nGT', '470', '10', '10', '4', '97*', '78.33', '278', '169.06', '0', '5', '46', '21']
+2025-05-03 10:49:35,177 - Orangecap_2025 - INFO - Script execution completed in 23.63 seconds
+2025-05-03 10:49:35,177 - werkzeug - INFO - 127.0.0.1 - - [03/May/2025 10:49:35] "[33mPOST /api/orange-cap-2025 HTTP/1.1[0m" 404 -
+2025-05-03 10:50:01,805 - werkzeug - INFO -  * Detected change in 'D:\\Document\\Projects\\cricket-champ-predictor\\Scraper\\IPL_Matches\\Pro\\Web\\Final\\cricket-oracle-predictions-main\\cricket-oracle-predictions-main\\backend\\Orangecap_2025.py', reloading
+2025-05-03 10:50:01,833 - werkzeug - INFO -  * Detected change in 'D:\\Document\\Projects\\cricket-champ-predictor\\Scraper\\IPL_Matches\\Pro\\Web\\Final\\cricket-oracle-predictions-main\\cricket-oracle-predictions-main\\backend\\Orangecap_2025.py', reloading
+2025-05-03 10:50:02,307 - werkzeug - INFO -  * Detected change in 'D:\\Document\\Projects\\cricket-champ-predictor\\Scraper\\IPL_Matches\\Pro\\Web\\Final\\cricket-oracle-predictions-main\\cricket-oracle-predictions-main\\backend\\Orangecap_2025.py', reloading

@@ -1,0 +1,59 @@
+Match_No,Date,Time,Team1,Team2,Team1_Runs,Team1_Wickets,Team1_Overs,Team2_Runs,Team2_Wickets,Team2_Overs,Winner,Winning_Margin,Venue,Is_Super_Over
+Match 1,2025-03-22,19:30:00,Kolkata Knight Riders,Royal Challengers Bangalore,174,8,20.0,177.0,3.0,16.2,Royal Challengers Bengaluru,7 Wickets,"Eden Gardens, Kolkata",No
+Match 2,2025-03-23,15:30:00,Sunrisers Hyderabad,Rajasthan Royals,286,6,20.0,242.0,6.0,20.0,Sunrisers Hyderabad,44 Runs,"Rajiv Gandhi International Stadium, Hyderabad",No
+Match 3,2025-03-23,19:30:00,Chennai Super Kings,Mumbai Indians,158,6,19.1,155.0,9.0,20.0,Chennai Super Kings,4 Wickets,"MA Chidambaram Stadium, Chennai",No
+Match 4,2025-03-24,19:30:00,Delhi Capitals,Lucknow Super Giants,211,9,19.3,209.0,8.0,20.0,Delhi Capitals,1 Wicket,"Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",No
+Match 5,2025-03-25,19:30:00,Gujarat Titans,Punjab Kings,232,5,20.0,243.0,5.0,20.0,Punjab Kings,11 Runs,"Narendra Modi Stadium, Ahmedabad",No
+Match 6,2025-03-26,19:30:00,Rajasthan Royals,Kolkata Knight Riders,151,9,20.0,153.0,2.0,17.3,Kolkata Knight Riders,8 Wickets,"ACA Stadium, Guwahati",No
+Match 7,2025-03-27,19:30:00,Sunrisers Hyderabad,Lucknow Super Giants,190,9,20.0,193.0,5.0,16.1,Lucknow Super Giants,5 Wickets,"Rajiv Gandhi International Stadium, Hyderabad",No
+Match 8,2025-03-28,19:30:00,Chennai Super Kings,Royal Challengers Bangalore,146,8,20.0,196.0,7.0,20.0,Royal Challengers Bengaluru,50 Runs,"MA Chidambaram Stadium, Chennai",No
+Match 9,2025-03-29,19:30:00,Gujarat Titans,Mumbai Indians,196,8,20.0,160.0,6.0,20.0,Gujarat Titans,36 Runs,"Narendra Modi Stadium, Ahmedabad",No
+Match 10,2025-03-30,15:30:00,Delhi Capitals,Sunrisers Hyderabad,166,3,16.0,163.0,10.0,18.4,Delhi Capitals,7 Wickets,"Dr YS Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",No
+Match 11,2025-03-30,19:30:00,Rajasthan Royals,Chennai Super Kings,182,9,20.0,176.0,6.0,20.0,Rajasthan Royals,6 Runs,"ACA Stadium, Guwahati",No
+Match 12,2025-03-31,19:30:00,Mumbai Indians,Kolkata Knight Riders,121,2,12.5,116.0,10.0,16.2,Mumbai Indians,8 Wickets,"Wankhede Stadium, Mumbai",No
+Match 13,2025-04-01,19:30:00,Lucknow Super Giants,Punjab Kings,171,7,20.0,177.0,2.0,16.2,Punjab Kings,8 Wickets,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",No
+Match 14,2025-04-02,19:30:00,Royal Challengers Bangalore,Gujarat Titans,169,8,20.0,170.0,2.0,17.5,Gujarat Titans,8 Wickets,"M Chinnaswamy Stadium, Bengaluru",No
+Match 15,2025-04-03,19:30:00,Kolkata Knight Riders,Sunrisers Hyderabad,200,6,20.0,120.0,10.0,16.4,Kolkata Knight Riders,80 Runs,"Eden Gardens, Kolkata",No
+Match 16,2025-04-04,19:30:00,Lucknow Super Giants,Mumbai Indians,203,8,20.0,191.0,5.0,20.0,Lucknow Super Giants,12 Runs,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",No
+Match 17,2025-04-05,15:30:00,Chennai Super Kings,Delhi Capitals,158,5,20.0,183.0,6.0,20.0,Delhi Capitals,25 Runs,"MA Chidambaram Stadium, Chennai",No
+Match 18,2025-04-05,19:30:00,Punjab Kings,Rajasthan Royals,155,9,20.0,205.0,4.0,20.0,Rajasthan Royals,50 Runs,"New PCA Stadium, Chandigarh",No
+Match 19,2025-04-08,15:30:00,Kolkata Knight Riders,Lucknow Super Giants,234,7,20.0,238.0,3.0,20.0,Lucknow Super Giants,4 Runs,"Eden Gardens, Kolkata",No
+Match 20,2025-04-06,19:30:00,Sunrisers Hyderabad,Gujarat Titans,152,8,20.0,153.0,3.0,16.4,Gujarat Titans,7 Wickets,"Rajiv Gandhi International Stadium, Hyderabad",No
+Match 21,2025-04-07,19:30:00,Mumbai Indians,Royal Challengers Bangalore,209,9,20.0,221.0,5.0,20.0,Royal Challengers Bengaluru,12 Runs,"Wankhede Stadium, Mumbai",No
+Match 22,2025-04-08,19:30:00,Punjab Kings,Chennai Super Kings,219,6,20.0,201.0,5.0,20.0,Punjab Kings,18 Runs,"New PCA Stadium, Chandigarh",No
+Match 23,2025-04-09,19:30:00,Gujarat Titans,Rajasthan Royals,217,6,20.0,159.0,10.0,19.2,Gujarat Titans,58 Runs,"Narendra Modi Stadium, Ahmedabad",No
+Match 24,2025-04-10,19:30:00,Royal Challengers Bangalore,Delhi Capitals,163,7,20.0,169.0,4.0,17.5,Delhi Capitals,6 Wickets,"M Chinnaswamy Stadium, Bengaluru",No
+Match 25,2025-04-11,19:30:00,Chennai Super Kings,Kolkata Knight Riders,103,9,20.0,107.0,2.0,10.1,Kolkata Knight Riders,8 Wickets,"MA Chidambaram Stadium, Chennai",No
+Match 26,2025-04-12,15:30:00,Lucknow Super Giants,Gujarat Titans,186,4,19.3,180.0,6.0,20.0,Lucknow Super Giants,6 Wickets,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",No
+Match 27,2025-04-12,19:30:00,Sunrisers Hyderabad,Punjab Kings,247,2,18.3,245.0,6.0,20.0,Sunrisers Hyderabad,8 Wickets,"Rajiv Gandhi International Stadium, Hyderabad",No
+Match 28,2025-04-13,15:30:00,Rajasthan Royals,Royal Challengers Bangalore,173,4,20.0,175.0,1.0,17.3,Royal Challengers Bengaluru,9 Wickets,"Sawai Mansingh Stadium, Jaipur",No
+Match 29,2025-04-13,19:30:00,Delhi Capitals,Mumbai Indians,193,10,19.0,205.0,5.0,20.0,Mumbai Indians,12 Runs,"Arun Jaitley Stadium, Delhi",No
+Match 30,2025-04-14,19:30:00,Lucknow Super Giants,Chennai Super Kings,166,7,20.0,168.0,5.0,19.3,Chennai Super Kings,5 Wickets,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",No
+Match 31,2025-04-15,19:30:00,Punjab Kings,Kolkata Knight Riders,111,10,15.3,95.0,10.0,15.1,Punjab Kings,16 Runs,"New PCA Stadium, Chandigarh",No
+Match 32,2025-04-16,19:30:00,Delhi Capitals,Rajasthan Royals,188,5,20.0,188.0,4.0,20.0,Delhi Capitals,Super Over,"Arun Jaitley Stadium, Delhi",Yes
+Match 33,2025-04-17,19:30:00,Mumbai Indians,Sunrisers Hyderabad,166,6,18.1,162.0,5.0,20.0,Mumbai Indians,4 Wickets,"Wankhede Stadium, Mumbai",No
+Match 34,2025-04-18,19:30:00,Royal Challengers Bangalore,Punjab Kings,95,9,14.0,98.0,5.0,12.1,Punjab Kings,5 Wickets,"M Chinnaswamy Stadium, Bengaluru",No
+Match 35,2025-04-19,15:30:00,Gujarat Titans,Delhi Capitals,204,3,19.2,203.0,8.0,20.0,Gujarat Titans,7 Wickets,"Narendra Modi Stadium, Ahmedabad",No
+Match 36,2025-04-19,19:30:00,Rajasthan Royals,Lucknow Super Giants,178,5,20.0,180.0,5.0,20.0,Lucknow Super Giants,2 Runs,"Sawai Mansingh Stadium, Jaipur",No
+Match 37,2025-04-20,15:30:00,Punjab Kings,Royal Challengers Bangalore,157,6,20.0,159.0,3.0,18.5,Royal Challengers Bengaluru,7 Wickets,"New PCA Stadium, Chandigarh",No
+Match 38,2025-04-20,19:30:00,Mumbai Indians,Chennai Super Kings,177,1,15.4,176.0,5.0,20.0,Mumbai Indians,9 Wickets,"Wankhede Stadium, Mumbai",No
+Match 39,2025-04-21,19:30:00,Kolkata Knight Riders,Gujarat Titans,159,8,20.0,198.0,3.0,20.0,Gujarat Titans,39 Runs,"Eden Gardens, Kolkata",No
+Match 40,2025-04-22,19:30:00,Lucknow Super Giants,Delhi Capitals,159,6,20.0,161.0,2.0,17.5,Delhi Capitals,8 Wickets,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",No
+Match 41,2025-04-23,19:30:00,Sunrisers Hyderabad,Mumbai Indians,143,8,20.0,146.0,3.0,15.4,Mumbai Indians,7 Wickets,"Rajiv Gandhi International Stadium, Hyderabad",No
+Match 42,2025-04-24,19:30:00,Royal Challengers Bangalore,Rajasthan Royals,205,5,20.0,194.0,9.0,20.0,Royal Challengers Bengaluru,11 Runs,"M Chinnaswamy Stadium, Bengaluru",No
+Match 43,2025-04-25,19:30:00,Chennai Super Kings,Sunrisers Hyderabad,154,10,19.5,155.0,5.0,18.4,Sunrisers Hyderabad,5 Wickets,"MA Chidambaram Stadium, Chennai",No
+Match 44,2025-04-26,19:30:00,Kolkata Knight Riders,Punjab Kings,7,0,1.0,201.0,4.0,20.0,,,"Eden Gardens, Kolkata",No
+Match 45,2025-04-27,15:30:00,Mumbai Indians,Lucknow Super Giants,215,7,20.0,161.0,10.0,20.0,Mumbai Indians,54 Runs,"Wankhede Stadium, Mumbai",No
+Match 46,2025-04-27,19:30:00,Delhi Capitals,Royal Challengers Bangalore,162,8,20.0,165.0,4.0,18.3,Royal Challengers Bengaluru,6 Wickets,"Arun Jaitley Stadium, Delhi",No
+Match 47,2025-04-28,19:30:00,Rajasthan Royals,Gujarat Titans,212,2,15.5,209.0,4.0,20.0,Rajasthan Royals,8 Wickets,"Sawai Mansingh Stadium, Jaipur",No
+Match 48,2025-04-29,19:30:00,Delhi Capitals,Kolkata Knight Riders,190,9,20.0,204.0,9.0,20.0,Kolkata Knight Riders,14 Runs,"Arun Jaitley Stadium, Delhi",No
+Match 49,2025-04-30,19:30:00,Chennai Super Kings,Punjab Kings,190,10,19.2,194.0,6.0,19.4,Punjab Kings,4 Wickets,"MA Chidambaram Stadium, Chennai",No
+Match 50,2025-05-01,19:30:00,Rajasthan Royals,Mumbai Indians,117,10,16.1,217.0,2.0,20.0,Mumbai Indians,100 Runs,"Sawai Mansingh Stadium, Jaipur",No
+Match 51,2025-05-02,19:30:00,Gujarat Titans,Sunrisers Hyderabad,224,6,20.0,186.0,6.0,20.0,Gujarat Titans,38 Runs,"Narendra Modi Stadium, Ahmedabad",No
+Match 52,2025-05-03,19:30:00,Royal Challengers Bangalore,Chennai Super Kings,213,5,20.0,211.0,5.0,20.0,Royal Challengers Bengaluru,2 Runs,"M Chinnaswamy Stadium, Bengaluru",No
+Match 53,2025-05-04,15:30:00,Kolkata Knight Riders,Rajasthan Royals,206,4,20.0,205.0,8.0,20.0,,,"Eden Gardens, Kolkata",No
+Match 54,2025-05-04,19:30:00,Punjab Kings,Lucknow Super Giants,236,5,20.0,199.0,7.0,20.0,Punjab Kings,37 Runs,"Himachal Pradesh Cricket Association Stadium, Dharamshala",No
+Match 55,2025-05-05,19:30:00,Sunrisers Hyderabad,Delhi Capitals,133,7,,,,,,,"Rajiv Gandhi International Stadium, Hyderabad",No
+Match 56,2025-05-06,19:30:00,Mumbai Indians,Gujarat Titans,155,8,20.0,147.0,7.0,19.0,Gujarat Titans,3 Wickets,"Wankhede Stadium, Mumbai",No
+Match 57,2025-05-07,19:30:00,Kolkata Knight Riders,Chennai Super Kings,179,6,20.0,183.0,8.0,19.4,Chennai Super Kings,2 Wickets,"Eden Gardens, Kolkata",No
+Match 58,2025-05-08,19:30:00,Punjab Kings,Delhi Capitals,122,1,10.1,,,,,,"Himachal Pradesh Cricket Association Stadium, Dharamshala",No

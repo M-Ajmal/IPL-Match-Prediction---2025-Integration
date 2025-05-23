@@ -1,0 +1,65 @@
+IPL 2025 Player Role Summary
+===========================
+
+Overall Role Distribution:
+Batsman: 44 players
+Bowler: 76 players
+All-Rounder: 58 players
+Wicketkeeper: 27 players
+Unknown: 0 players
+
+Team-wise Role Distribution:
+
+Chennai_Super_Kings:
+  Batsman: 5 players
+  Bowler: 8 players
+  All-Rounder: 9 players
+  Wicketkeeper: 3 players
+
+Delhi_Capitals:
+  Batsman: 6 players
+  Bowler: 8 players
+  All-Rounder: 5 players
+  Wicketkeeper: 3 players
+
+Gujarat_Titans:
+  Batsman: 4 players
+  Bowler: 10 players
+  All-Rounder: 8 players
+  Wicketkeeper: 3 players
+
+Kolkata_Knight_Riders:
+  Batsman: 4 players
+  Bowler: 7 players
+  All-Rounder: 7 players
+  Wicketkeeper: 3 players
+
+Lucknow_Super_Giants:
+  Batsman: 5 players
+  Bowler: 9 players
+  All-Rounder: 6 players
+  Wicketkeeper: 4 players
+
+Mumbai_Indians:
+  Batsman: 5 players
+  Bowler: 10 players
+  All-Rounder: 5 players
+  Wicketkeeper: 3 players
+
+Punjab_Kings:
+  Batsman: 5 players
+  Bowler: 8 players
+  All-Rounder: 9 players
+  Wicketkeeper: 3 players
+
+Rajasthan_Royals:
+  Batsman: 4 players
+  Bowler: 9 players
+  All-Rounder: 4 players
+  Wicketkeeper: 3 players
+
+Sunrisers_Hyderabad:
+  Batsman: 6 players
+  Bowler: 7 players
+  All-Rounder: 5 players
+  Wicketkeeper: 2 players
