@@ -1,8 +1,6 @@
 # 🏏 IPL Match Prediction - 2025 Integration
 
-<div align="center">
-  <img src="images/ipl-prediction-banner.png" alt="IPL Match Prediction Dashboard" width="800"/>
-</div>
+![Project Banner](dashboard1.png)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
