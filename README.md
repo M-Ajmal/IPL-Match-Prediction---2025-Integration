@@ -194,13 +194,13 @@ Total    24,412  23,221  47,633
 ## 📸 Visualizations
 
 ### Model Performance Dashboard
-![Confusion Matrix](visualizations/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Team Strength Analysis
-![Team Performance](visualizations/team_performance.png)
+![Team Performance](team_performance.png)
 
 ### ROC Curve Analysis  
-![ROC Curve](visualizations/roc_curve.png)
+![ROC Curve](roc_curve.png)
 
 ## 🔮 Future Enhancements
 
@@ -217,9 +217,6 @@ Total    24,412  23,221  47,633
 - **Live Data Integration**: Real-time API connections with cricket databases
 - **Advanced Feature Engineering**: Player fatigue, pitch conditions, team dynamics
 
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ### How to Contribute
 1. Fork the repository
@@ -232,14 +229,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
-
-**DV304.3 – Data Visualization Project Team**
-- W G M M Ajmal Mansoor - 26775
-- K B A Pasandul - 30452  
-- H A B S Mahanama - 27818
-- S S Chandrasinghe - 29793
-- R V Pathirana - 30486
 
 ## 📚 References
 
@@ -253,14 +242,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Random Forest Classification: Breiman, L. (2001)
 - Cricket Analytics: "Analyzing Cricket Match Data" - Journal of Sports Analytics
 - Time Series Prediction in Sports: IEEE Transactions on Sports Engineering
-
-## 📞 Contact
-
-For questions, suggestions, or collaboration opportunities:
-
-- **Project Repository**: [GitHub](https://github.com/yourusername/ipl-match-prediction)
-- **Issues**: [Bug Reports & Feature Requests](https://github.com/yourusername/ipl-match-prediction/issues)
-- **Discussions**: [Community Forum](https://github.com/yourusername/ipl-match-prediction/discussions)
 
 ---
 
